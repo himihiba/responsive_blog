@@ -1,0 +1,10 @@
+.article__title{
+    margin-top: 1em;
+}
+@media screen and (min-width: 1151px) {
+    .recent__article {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+}
